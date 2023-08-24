@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "067d85cb4f660b87",
+        "id": "7911606009dc8770",
         "type": "tabs",
         "children": [
           {
-            "id": "5fd775c9ab52465f",
+            "id": "63cf3712a56c3821",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Link tag.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Link tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Link tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Link tag.md"
+              }
             }
           }
         ]
@@ -138,15 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fd775c9ab52465f",
+  "active": "63cf3712a56c3821",
   "lastOpenFiles": [
     "HTML.md",
-    "Commenting.md",
-    "Paragraph.md",
-    "Pasted image 20230823230753.png",
+    "Link tag.md",
+    "Image tag.md",
+    "Image tags.md",
+    "Nesting in HTML.md",
+    "Main Tag.md",
+    "Pasted image 20230823225508.png.md",
     "Heading tags.md",
+    "Paragraph.md",
     "Pasted image 20230823230142.png",
     "Pasted image 20230823225508.png",
+    "Pasted image 20230823230753.png",
+    "Commenting.md",
     "Pasted image 20230823225403.png",
     "AA Index.md"
   ]

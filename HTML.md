@@ -8,11 +8,14 @@
 
 we can consider this as the most basic HTML CODE and if this is run it looks something like this 
 
-![[Pasted image 20230823225508.png]]
+
 
 - [[Heading tags]]
 - [[Paragraph]]
 - [[Commenting]]
-
+- [[Main Tag]]
+- [[Nesting in HTML]] 
+- [[Image tag]]
+- [[Link tag]]
 
 
