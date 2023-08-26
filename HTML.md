@@ -6,7 +6,7 @@
 </html>
 ```
 
-we can consider this as the most basic HTML CODE and if this is run it looks something like this 
+we can consider this as the most basic HTML CODE.
 
 
 
@@ -17,5 +17,10 @@ we can consider this as the most basic HTML CODE and if this is run it looks som
 - [[Nesting in HTML]] 
 - [[Image tag]]
 - [[Link tag]]
-
+- [[Section Tag]]
+- [[List tags]]
+- [[Figure tag]]
+- [[EM tag]]
+- [[Strong Tag]]
+- 
 

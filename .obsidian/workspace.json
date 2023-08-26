@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Link tag.md",
+                "file": "HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "793b6606da12285f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Link tag.md",
+                "file": "HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Link tag.md",
+                "file": "HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Link tag.md"
+                "file": "HTML.md"
               }
             }
           }
@@ -148,20 +149,30 @@
   },
   "active": "63cf3712a56c3821",
   "lastOpenFiles": [
+    "Strong Tag.md",
     "HTML.md",
+    "Figure tag.md",
+    "EM tag.md",
+    "Pasted image 20230824194245.png",
+    "List tags.md",
+    "Pasted image 20230824192512.png",
+    "Pasted image 20230824192405.png",
+    "Section Tag.md",
+    "Heading tags.md",
+    "Commenting.md",
+    "AA Index.md",
+    "JAVASCRIPT.md",
+    "CSS.md",
     "Link tag.md",
     "Image tag.md",
     "Image tags.md",
     "Nesting in HTML.md",
     "Main Tag.md",
     "Pasted image 20230823225508.png.md",
-    "Heading tags.md",
     "Paragraph.md",
     "Pasted image 20230823230142.png",
     "Pasted image 20230823225508.png",
     "Pasted image 20230823230753.png",
-    "Commenting.md",
-    "Pasted image 20230823225403.png",
-    "AA Index.md"
+    "Pasted image 20230823225403.png"
   ]
 }
