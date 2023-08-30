@@ -22,5 +22,6 @@ we can consider this as the most basic HTML CODE.
 - [[Figure tag]]
 - [[EM tag]]
 - [[Strong Tag]]
+- [[Form html]]
 - 
 
