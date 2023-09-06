@@ -161,5 +161,17 @@ this is what we have created so far
 in some cases we want only one radio button to be selected and not both of them
 in this case we will use `name` and `id` attribute to accomplish this.
 
+here is an example:
+```html 
+<html>
+	<body>
+		<form action="/submit-url">
+			<label><input type="radio" id="opt1" name="opt1-opt2">option1</label>
+			<label><input type="radio" id="opt2" name="opt1-opt2">option 2</label>
+		</form>
+	</body>
+</html>
+```
 
-sxthjbk
+![[Recording 2023-09-06 190400.mp4]]
+
