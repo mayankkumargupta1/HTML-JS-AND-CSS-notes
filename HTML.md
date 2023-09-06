@@ -23,5 +23,9 @@ we can consider this as the most basic HTML CODE.
 - [[EM tag]]
 - [[Strong Tag]]
 - [[Form html]]
+- [[Footer tag]]
+- [[Head tag]]
+- [[Lang attribute]]
+- [[Doctype tag]]
 - 
 

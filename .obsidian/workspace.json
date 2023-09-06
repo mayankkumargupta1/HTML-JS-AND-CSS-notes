@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Form html.md",
+                "file": "Doctype tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Form html.md",
+                "file": "Doctype tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Form html.md",
+                "file": "Doctype tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Form html.md"
+                "file": "Doctype tag.md"
               }
             }
           }
@@ -148,33 +148,39 @@
   },
   "active": "63cf3712a56c3821",
   "lastOpenFiles": [
+    "HTML.md",
+    "Doctype tag.md",
+    "Lang attribute.md",
+    "Head tag.md",
+    "List tags.md",
+    "Heading tags.md",
+    "Nesting in HTML.md",
+    "Footer tag.md",
+    "Form html.md",
+    "Pasted image 20230906194949.png",
+    "Pasted image 20230906193427.png",
+    "Pasted image 20230906192521.png",
+    "Pasted image 20230906192057.png",
     "Recording 2023-09-06 190400.mp4",
     "Pasted image 20230906125703.png",
-    "HTML.md",
     "Strong Tag.md",
-    "Form html.md",
     "AA Index.md",
     "Figure tag.md",
     "EM tag.md",
     "Pasted image 20230824194245.png",
-    "List tags.md",
     "Pasted image 20230824192512.png",
     "Pasted image 20230824192405.png",
     "Section Tag.md",
-    "Heading tags.md",
     "Commenting.md",
     "JAVASCRIPT.md",
     "CSS.md",
     "Link tag.md",
     "Image tag.md",
     "Image tags.md",
-    "Nesting in HTML.md",
     "Main Tag.md",
     "Pasted image 20230823225508.png.md",
     "Paragraph.md",
     "Pasted image 20230823230142.png",
-    "Pasted image 20230823225508.png",
-    "Pasted image 20230823230753.png",
-    "Pasted image 20230823225403.png"
+    "Pasted image 20230823225508.png"
   ]
 }
