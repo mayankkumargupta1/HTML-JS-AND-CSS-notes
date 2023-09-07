@@ -27,5 +27,6 @@ we can consider this as the most basic HTML CODE.
 - [[Head tag]]
 - [[Lang attribute]]
 - [[Doctype tag]]
+- [[Article tag]]
 - 
 

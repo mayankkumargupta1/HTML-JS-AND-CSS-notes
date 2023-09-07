@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctype tag.md",
+                "file": "CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doctype tag.md",
+                "file": "CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doctype tag.md",
+                "file": "CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctype tag.md"
+                "file": "CSS.md"
               }
             }
           }
@@ -148,14 +148,30 @@
   },
   "active": "63cf3712a56c3821",
   "lastOpenFiles": [
+    "Footer tag.md",
+    "Untitled.canvas",
+    "CSS.md",
+    "Article tag.md",
     "HTML.md",
+    "Background Image in css.md",
+    "CLASSES in css.md",
+    "Margin in css.md",
+    "comment in css.md",
+    "Width css.md",
+    "Pasted image 20230907190059.png",
+    "Pasted image 20230907190016.png",
+    "Background color css.md",
+    "Div tag.md",
+    "text-align css.md",
+    "Pasted image 20230907182412.png",
+    "additional meta tags for better webpage.md",
+    "grouping style.md",
     "Doctype tag.md",
     "Lang attribute.md",
     "Head tag.md",
     "List tags.md",
     "Heading tags.md",
     "Nesting in HTML.md",
-    "Footer tag.md",
     "Form html.md",
     "Pasted image 20230906194949.png",
     "Pasted image 20230906193427.png",
@@ -168,19 +184,6 @@
     "Figure tag.md",
     "EM tag.md",
     "Pasted image 20230824194245.png",
-    "Pasted image 20230824192512.png",
-    "Pasted image 20230824192405.png",
-    "Section Tag.md",
-    "Commenting.md",
-    "JAVASCRIPT.md",
-    "CSS.md",
-    "Link tag.md",
-    "Image tag.md",
-    "Image tags.md",
-    "Main Tag.md",
-    "Pasted image 20230823225508.png.md",
-    "Paragraph.md",
-    "Pasted image 20230823230142.png",
-    "Pasted image 20230823225508.png"
+    "Pasted image 20230824192512.png"
   ]
 }
