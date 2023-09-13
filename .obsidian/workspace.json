@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS.md",
+                "file": "Border css.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS.md",
+                "file": "Border css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS.md",
+                "file": "Border css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS.md"
+                "file": "Border css.md"
+              }
+            }
+          },
+          {
+            "id": "387a4cfe0766ee21",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -148,9 +158,18 @@
   },
   "active": "63cf3712a56c3821",
   "lastOpenFiles": [
+    "Pasted image 20230913125606.png",
+    "CSS.md",
+    "Border css.md",
+    "Use of Hr tag.md",
+    "Pasted image 20230913124953.png",
+    "Form html.md",
+    "Pasted image 20230913124415.png",
+    "Font.md",
+    "Padding css.md",
+    "Join similar class.md",
     "Display Css.md",
     "Pasted image 20230907193742.png",
-    "CSS.md",
     "Footer tag.md",
     "Untitled.canvas",
     "Article tag.md",
@@ -172,18 +191,10 @@
     "Lang attribute.md",
     "Head tag.md",
     "List tags.md",
-    "Heading tags.md",
-    "Nesting in HTML.md",
-    "Form html.md",
     "Pasted image 20230906194949.png",
     "Pasted image 20230906193427.png",
     "Pasted image 20230906192521.png",
     "Pasted image 20230906192057.png",
-    "Recording 2023-09-06 190400.mp4",
-    "Pasted image 20230906125703.png",
-    "Strong Tag.md",
-    "AA Index.md",
-    "Figure tag.md",
-    "Pasted image 20230824194245.png"
+    "Recording 2023-09-06 190400.mp4"
   ]
 }

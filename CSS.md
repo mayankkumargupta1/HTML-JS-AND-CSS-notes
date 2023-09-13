@@ -9,6 +9,11 @@
 - [[CLASSES in css]]
 - [[Background Image in css]]
 - [[Display Css]]
+- [[Join similar class]]
+- [[Padding css]]
+- [[Font]]
+- [[Use of Hr tag]]
+- [[Border css]]
 - 
 
 
