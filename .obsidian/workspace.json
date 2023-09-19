@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Border css.md",
+                "file": "Styling links in css.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Border css.md",
+                "file": "Styling links in css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Border css.md",
+                "file": "Styling links in css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Border css.md"
+                "file": "Styling links in css.md"
               }
             }
           },
@@ -158,12 +158,16 @@
   },
   "active": "63cf3712a56c3821",
   "lastOpenFiles": [
-    "Pasted image 20230913125606.png",
     "CSS.md",
-    "Border css.md",
-    "Use of Hr tag.md",
-    "Pasted image 20230913124953.png",
+    "Styling links in css.md",
+    "AA Index.md",
+    "comment in css.md",
     "Form html.md",
+    "Image tag.md",
+    "Use of Hr tag.md",
+    "Border css.md",
+    "Pasted image 20230913125606.png",
+    "Pasted image 20230913124953.png",
     "Pasted image 20230913124415.png",
     "Font.md",
     "Padding css.md",
@@ -177,7 +181,6 @@
     "Background Image in css.md",
     "CLASSES in css.md",
     "Margin in css.md",
-    "comment in css.md",
     "Width css.md",
     "Pasted image 20230907190059.png",
     "Pasted image 20230907190016.png",
@@ -189,12 +192,9 @@
     "grouping style.md",
     "Doctype tag.md",
     "Lang attribute.md",
-    "Head tag.md",
-    "List tags.md",
     "Pasted image 20230906194949.png",
     "Pasted image 20230906193427.png",
     "Pasted image 20230906192521.png",
-    "Pasted image 20230906192057.png",
     "Recording 2023-09-06 190400.mp4"
   ]
 }
