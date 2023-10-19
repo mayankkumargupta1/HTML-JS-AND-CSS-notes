@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Styling links in css.md",
+                "file": "HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Styling links in css.md",
+                "file": "HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Styling links in css.md",
+                "file": "HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Styling links in css.md"
+                "file": "HTML.md"
               }
             }
           },
@@ -158,10 +158,15 @@
   },
   "active": "63cf3712a56c3821",
   "lastOpenFiles": [
-    "CSS.md",
-    "Styling links in css.md",
     "AA Index.md",
+    "HTML.md",
     "comment in css.md",
+    "CSS.md",
+    "Link tag.md",
+    "Styling links in css.md",
+    "additional meta tags for better webpage.md",
+    "Margin in css.md",
+    "Background Image in css.md",
     "Form html.md",
     "Image tag.md",
     "Use of Hr tag.md",
@@ -177,10 +182,7 @@
     "Footer tag.md",
     "Untitled.canvas",
     "Article tag.md",
-    "HTML.md",
-    "Background Image in css.md",
     "CLASSES in css.md",
-    "Margin in css.md",
     "Width css.md",
     "Pasted image 20230907190059.png",
     "Pasted image 20230907190016.png",
@@ -188,10 +190,8 @@
     "Div tag.md",
     "text-align css.md",
     "Pasted image 20230907182412.png",
-    "additional meta tags for better webpage.md",
     "grouping style.md",
     "Doctype tag.md",
-    "Lang attribute.md",
     "Pasted image 20230906194949.png",
     "Pasted image 20230906193427.png",
     "Pasted image 20230906192521.png",
