@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Media tags.md",
+                "file": "Form tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media tags.md",
+                "file": "Form tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media tags.md",
+                "file": "Form tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media tags.md"
+                "file": "Form tags.md"
               }
             }
           },
@@ -159,15 +159,16 @@
   "active": "63cf3712a56c3821",
   "lastOpenFiles": [
     "HTML.md",
-    "JAVASCRIPT.md",
-    "CSS.md",
+    "Form tags.md",
     "Media tags.md",
+    "CSS.md",
+    "text tags and formatting.md",
+    "JAVASCRIPT.md",
     "Pasted image 20231023150016.png",
     "Pasted image 20231023145619.png",
     "Pasted image 20231023101600.png",
     "Pasted image 20231023145554.png",
     "Pasted image 20231023101314.png",
-    "text tags and formatting.md",
     "Pasted image 20231023145005.png",
     "Pasted image 20231023103856.png",
     "Pasted image 20231023103503.png",
@@ -194,7 +195,6 @@
     "CLASSES in css.md",
     "Width css.md",
     "Background color css.md",
-    "Div tag.md",
     "Recording 2023-09-06 190400.mp4"
   ]
 }

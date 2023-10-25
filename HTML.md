@@ -1,7 +1,8 @@
 ### Contents:
 1. [[text tags and formatting]]
 2. [[Media tags]]
-3. 
+3. [[Form tags]]
+4. 
 
 HTML stands for `hyper text markup language` and its is the standard language to create web pages.
 
